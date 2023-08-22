@@ -1,3 +1,7 @@
+# WHY I NEEDED TO FORK THIS
+
+Just to learn the engine making and, sometime later, to port this to wii
+
 # ABOUT
 
 _dhewm 3_ is a _Doom 3_ GPL source port, known to work on at least Windows, Linux, macOS and FreeBSD.
